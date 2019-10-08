@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+### Placeholder!
 
-You can use the [editor on GitHub](https://github.com/sonic-howl/Knowledge/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+```
+One day a student team member asked - where can I learn more?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+All I could say was 'the internet.' A better answer may have been 'wikipedia',
+But the skill of finding the right information is a skill like any other, and
+it is unfair to the novice to give advice you would to an expert.
 
-### Markdown
+This is a place - to put links and information, 
+to find "more" about everything that is Sonic Howl.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I hope you will join me here.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Kelsey C - Mentor, Head of Technical Wizardry, FRC 3985
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sonic-howl/Knowledge/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
